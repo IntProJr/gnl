@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/intpro/Documents/myGNL/get_next_line.h
+libft/libft.h
+/Users/intpro/Documents/myGNL/libft/libft.h
+
+/Users/intpro/Documents/myGNL/libft/libft.h
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+fcntl.h
+-
+
+/Users/intpro/Documents/myGNL/main.c
+get_next_line.h
+/Users/intpro/Documents/myGNL/get_next_line.h
+fcntl.h
+-
+stdio.h
+-
+string.h
+-
+fcntl.h
+-
+stdio.h
+-
+unistd.h
+-
+get_next_line.h
+/Users/intpro/Documents/myGNL/get_next_line.h
+
